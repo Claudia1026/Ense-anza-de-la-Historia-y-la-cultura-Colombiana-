@@ -13,6 +13,9 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   
 ![imagen 2](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen1.jpg)
 
+![Imagen3](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen3.jpg)
+
+
   ### Pregunta: 
   
   ¿Cómo contribuyen estas plataformas digitales a la enseñanza de la historia y la cultura Colombiana en la actual época de pandemia?
