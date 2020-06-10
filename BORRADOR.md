@@ -11,8 +11,9 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   - [RTVCPlay](https://www.rtvcplay.co/)
   
   
-![imagen 2]
-  
+![imagen 2](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen2.jpg)
+
+
   ### Pregunta: 
   
   ¿Cómo contribuyen estas plataformas digitales a la enseñanza de la historia y la cultura Colombiana en la actual época de pandemia?
