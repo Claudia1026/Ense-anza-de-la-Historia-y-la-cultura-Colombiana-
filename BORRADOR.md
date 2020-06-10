@@ -1,6 +1,6 @@
 # Plataformas digitales en la enseñanza de la historia y la cultura Colombiana
 
-
+![Imagen 1]
 
 
 Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como herramientas para el conocimiento de la historia y cultura colombiana.
@@ -9,6 +9,10 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   - [Archivo General de la Nación](https://www.archivogeneral.gov.co/consulte/fondos-documentales)
   - [Revista Credencial Historia](https://www.banrepcultural.org/biblioteca-virtual/credencial-historia)
   - [RTVCPlay](https://www.rtvcplay.co/)
+  
+  
+  ![Imagen 2]
+  
   
   ### Pregunta: 
   
