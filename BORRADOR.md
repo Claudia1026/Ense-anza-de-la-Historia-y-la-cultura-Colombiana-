@@ -1,6 +1,6 @@
 # Plataformas digitales en la enseñanza de la historia y la cultura Colombiana
 
-![Imagen 1]
+![Imagen 1](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen2.jpg)
 
 
 Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como herramientas para el conocimiento de la historia y cultura colombiana.
