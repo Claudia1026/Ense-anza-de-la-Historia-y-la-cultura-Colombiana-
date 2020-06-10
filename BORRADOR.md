@@ -17,8 +17,7 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
 
 ![Imagen4](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen4.png)
 
-![Imagen5](
-
+![Imagen5](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen5.jpg)
 
   ### Pregunta: 
   
