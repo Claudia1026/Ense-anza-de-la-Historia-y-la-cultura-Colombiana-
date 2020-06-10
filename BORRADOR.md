@@ -11,8 +11,7 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   - [RTVCPlay](https://www.rtvcplay.co/)
   
   
-![imagen 2](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen2.jpg)
-
+![imagen 2](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen1.jpg)
 
   ### Pregunta: 
   
