@@ -11,8 +11,7 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   - [RTVCPlay](https://www.rtvcplay.co/)
   
   
-  ![Imagen 2]
-  
+![imagen 2]
   
   ### Pregunta: 
   
