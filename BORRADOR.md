@@ -13,7 +13,7 @@ Reconocer el uso y aprovechamiento de las plataformas digitales nacionales como 
   
 ![imagen 2](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen1.jpg?raw=true)
 
-![Imagen3](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen3.jpg)
+![Imagen3](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen3.jpg?raw=true)
 
 ![Imagen4](https://github.com/Claudia1026/Ense-anza-de-la-Historia-y-la-cultura-Colombiana-/blob/Cultura/Imagen4.png)
 
